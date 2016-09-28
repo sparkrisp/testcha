@@ -23,7 +23,7 @@ var ctx = canvas.getContext('2d');
 canvas.width = 450;
 canvas.height = 450;
 
-var image = "happy.jpg"
+var image = "donald1.jpg"
 //Initialize Emotional Varialbes
 var exampleEmotions;
 var liveEmotions;
